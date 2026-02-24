@@ -823,7 +823,7 @@ export default function ExpoTech2026() {
                     <h3 className="text-2xl md:text-3xl font-bold bg-gradient-to-r from-[#00f3ff] via-[#a855f7] to-[#ec4899] bg-clip-text text-transparent">
                       Projeto Integrador em Engenharias
                     </h3>
-                    <p className="text-gray-400 text-lg">ECO (4º ao 8º) • Eng. Civil, Elétrica e Produção (6º ao 9º)</p>
+                    <p className="text-gray-400 text-lg">ECO (4º ao 8º) • Eng. Civil, Elétrica e Produção (7º ao 9º)</p>
                   </div>
                 </div>
                 <div className="grid md:grid-cols-2 gap-8 mb-8">
@@ -832,7 +832,7 @@ export default function ExpoTech2026() {
                       <span className="text-[#00f3ff]">▸</span> Sobre o Projeto
                     </h4>
                     <p className="text-gray-300 leading-relaxed mb-4">
-                      O Projeto Integrador em Engenharias segue os elementos do roteiro, desafiando alunos do 4º ao 8º da Engenharia da Computação e do 6º ao 9º das Engenharias Civil, Elétrica e Produção a desenvolverem sistemas robustos que integram conceitos avançados e metodologias científicas.
+                      O Projeto Integrador em Engenharias segue os elementos do roteiro, desafiando alunos do 4º ao 8º da Engenharia da Computação e do 7º ao 9º das Engenharias Civil, Elétrica e Produção a desenvolverem sistemas robustos que integram conceitos avançados e metodologias científicas.
                     </p>
                     <p className="text-gray-300 leading-relaxed">
                       Os projetos aplicam elementos do roteiro na prática, englobando engenharia de software, otimização matemática e validação de desempenho, demonstrando maturidade técnica.
