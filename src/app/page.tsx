@@ -1416,7 +1416,21 @@ export default function ExpoTech2026() {
                 </button>
                 {openAccordion === 'faq7' && (
                   <div className="p-5 pt-0 border-t border-[#00f3ff]/10">
-                    <p className={textSecondary}>Para dúvidas gerais sobre o evento, envie um email para:<br/><a href="mailto:luis.pires@fecaf.com.br" className="text-[#00f3ff] hover:text-[#00d4e8] font-semibold">luis.pires@fecaf.com.br</a></p>
+                    <p className={textSecondary}>Para dúvidas gerais sobre o evento, entre em contato:</p>
+                    <div className="mt-4 space-y-3">
+                      <div className="flex items-center gap-2">
+                        <svg className="w-5 h-5 text-[#00f3ff]" fill="currentColor" viewBox="0 0 24 24">
+                          <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z" />
+                        </svg>
+                        <a href="mailto:luis.pires@fecaf.com.br" className="text-[#00f3ff] hover:text-[#00d4e8] font-semibold">luis.pires@fecaf.com.br</a>
+                      </div>
+                      <div className="flex items-center gap-2">
+                        <svg className="w-5 h-5 text-[#25d366]" fill="currentColor" viewBox="0 0 24 24">
+                          <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.272-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.67-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.076 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421-7.403h-.004a9.87 9.87 0 00-5.031 1.378c-1.56.934-2.846 2.243-3.752 3.885-1.02 1.902-1.288 4.052-.786 6.097.044.214.048.426.011.638-.25 1.51-1.227 2.796-2.603 3.409-.24.098-.487.119-.731.066-.244-.053-.47-.227-.604-.481-.135-.253-.16-.58-.07-.869.327-1.04.906-2.006 1.622-2.82 1.154-1.362 2.733-2.381 4.537-2.944 1.804-.562 3.743-.467 5.467.275 2.45 1.056 4.226 3.327 4.59 5.906.088.625.088 1.267.004 1.896-.261 1.93-1.371 3.61-3.018 4.72-1.647 1.11-3.735 1.633-5.814 1.483-2.08-.15-4.032-1.069-5.457-2.628-1.425-1.56-2.228-3.584-2.246-5.7-.018-2.117.813-4.176 2.311-5.733 1.498-1.556 3.544-2.432 5.696-2.433 1.04.001 2.072.19 3.055.558l-1.032 2.993z" />
+                        </svg>
+                        <a href="https://wa.me/5511949703282?text=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20o%20ExpoTech%202026!" target="_blank" rel="noopener noreferrer" className="text-[#25d366] hover:text-[#20a850] font-semibold">(11) 99470-3282</a>
+                      </div>
+                    </div>
                   </div>
                 )}
               </div>
