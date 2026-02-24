@@ -14,16 +14,16 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Z.ai Code Scaffold - AI-Powered Development",
-  description: "Modern Next.js scaffold optimized for AI-powered development with Z.ai. Built with TypeScript, Tailwind CSS, and shadcn/ui.",
-  keywords: ["Z.ai", "Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui", "AI development", "React"],
-  authors: [{ name: "Z.ai Team" }],
+  title: "UNIFECAF - ExpoTech 2026",
+  description: "O maior evento de tecnologia e inovação da UniFECAF. Smart Building & Tecnologias Disruptivas. 13 de Junho de 2026.",
+  keywords: ["ExpoTech", "UniFECAF", "Tecnologia", "Inovação", "Smart Building", "Projetos", "Evento"],
+  authors: [{ name: "ExpoTech Team" }],
   icons: {
     icon: "/favicon.svg",
   },
   openGraph: {
-    title: "Z.ai Code Scaffold",
-    description: "AI-powered development with modern React stack",
+    title: "UNIFECAF - ExpoTech 2026",
+    description: "O maior evento de tecnologia e inovação da UniFECAF",
     url: "https://chat.z.ai",
     siteName: "Z.ai",
     type: "website",
