@@ -941,7 +941,7 @@ export default function ExpoTech2026() {
                   </span>
                   <div className="flex-1">
                     <p className="text-gray-200 font-semibold text-base mb-1">Composição dos Grupos</p>
-                    <p className="text-gray-400 text-sm"><strong className="text-[#a855f7]">Cursos:</strong> 3 a 5 pessoas da mesma turma, com papéis definidos | <strong className="text-[#a855f7]">Projeto Integrador:</strong> 10 a 12 alunos de todas as engenharias</p>
+                    <p className="text-gray-400 text-sm"><strong className="text-[#a855f7]">Cursos:</strong> 3 a 5 pessoas da mesma turma, com papéis definidos | <strong className="text-[#a855f7]">Projeto Integrador:</strong> 10 a 12 alunos (ECO: 4º ao 8º | Civil/Elétrica/Produção: 7º ao 9º)</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4 p-4 bg-[#0a0f1d]/50 rounded-xl border border-[#a855f7]/10 hover:border-[#a855f7]/30 transition-colors">
