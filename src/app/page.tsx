@@ -148,14 +148,10 @@ function CountdownTimer({ targetDate, isDark }: { targetDate: Date, isDark: bool
   );
 }
 
-export interface ExpoTechProps {
-  darkCyberpunk?: boolean;
-}
-
-export function ExpoTech2026({ darkCyberpunk = false }: ExpoTechProps) {
+export default function ExpoTech2026() {
   const [currentSemester, setCurrentSemester] = useState<string | null>(null);
   const [openAccordion, setOpenAccordion] = useState<string | null>(null);
-  const [isDark, setIsDark] = useState(darkCyberpunk ? true : true);
+  const [isDark, setIsDark] = useState(true);
 
   // Data do evento: 13 de Junho de 2026 às 08:00
   const eventDate = new Date('2026-06-13T08:00:00');
@@ -176,19 +172,11 @@ export function ExpoTech2026({ darkCyberpunk = false }: ExpoTechProps) {
   };
 
   // Cores dinâmicas baseadas no tema
-  let bgPrimary = isDark ? 'bg-[#0a0f1d]' : 'bg-gray-50';
-  let textPrimary = isDark ? 'text-white' : 'text-gray-900';
-  let textSecondary = isDark ? 'text-gray-300' : 'text-gray-600';
-  let cardBg = isDark ? 'from-[#1a1f2e] to-[#0d1117]' : 'from-white to-gray-100';
-  let borderColor = isDark ? 'border-[#00f3ff]/20' : 'border-gray-200';
-
-  if (darkCyberpunk) {
-    bgPrimary = 'bg-[#0c0e13]';
-    textPrimary = 'text-white';
-    textSecondary = 'text-gray-400';
-    cardBg = 'from-[#11161d] to-[#0a0c10]';
-    borderColor = 'border-blue-500';
-  }
+  const bgPrimary = isDark ? 'bg-[#0a0f1d]' : 'bg-gray-50';
+  const textPrimary = isDark ? 'text-white' : 'text-gray-900';
+  const textSecondary = isDark ? 'text-gray-300' : 'text-gray-600';
+  const cardBg = isDark ? 'from-[#1a1f2e] to-[#0d1117]' : 'from-white to-gray-100';
+  const borderColor = isDark ? 'border-[#00f3ff]/20' : 'border-gray-200';
 
   return (
     <div className={`min-h-screen ${bgPrimary} ${textPrimary} font-sans transition-colors duration-500`}>
@@ -1569,6 +1557,3 @@ export function ExpoTech2026({ darkCyberpunk = false }: ExpoTechProps) {
     </div>
   );
 }
-
-// default export for homepage
-export default ExpoTech2026;
