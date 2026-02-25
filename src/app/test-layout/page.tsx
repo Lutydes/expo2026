@@ -1,10 +1,7 @@
-import React from 'react';
-import Link from 'next/link';
-import { ExpoTech2026 } from '../page';
+'use client';
 
-export const metadata = {
-  title: 'UNIFECAF - Teste Layout Defesa Cibernética',
-};
+import React from 'react';
+import { ExpoTech2026 } from '../page';
 
 export default function TestLayout() {
   return (
