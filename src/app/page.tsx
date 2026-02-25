@@ -1569,6 +1569,4 @@ export function ExpoTech2026({ darkCyberpunk = false }: ExpoTechProps) {
     </div>
   );
 }
-
-// default export for root route
-export default ExpoTech2026;
+\n// default export for root route\nexport default ExpoTech2026;\n
