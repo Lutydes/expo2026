@@ -1228,7 +1228,7 @@ export default function ExpoTech2026() {
                 </div>
                 <div className="flex flex-col items-start md:items-end gap-2">
                   <div className="text-3xl font-black text-white">
-                    20 MAR
+                    11 MAR
                   </div>
                   <div className="text-gray-400">2026</div>
                 </div>
@@ -1362,7 +1362,7 @@ export default function ExpoTech2026() {
                 </button>
                 {openAccordion === 'faq4' && (
                   <div className="p-5 pt-0 border-t border-[#00f3ff]/10">
-                    <p className={textSecondary}>Preencha o formulário de inscrição até <strong>20 de Março de 2026</strong>. O link está disponível na seção de navegação e no Hero do site.</p>
+                    <p className={textSecondary}>Preencha o formulário de inscrição até <strong>11 de Março de 2026</strong>. O link está disponível na seção de navegação e no Hero do site.</p>
                   </div>
                 )}
               </div>
