@@ -350,7 +350,7 @@ export default function ExpoTech2026() {
                 </div>
                 <h3 className="text-2xl font-bold mb-3 text-[#a855f7]">Banca de Avaliação</h3>
                 <p className="text-gray-400">
-                  Profissionais experientes de TI avaliam os projetos, oferecendo feedback valioso e reconhecendo o trabalho das equipes.
+                  Profissionais experientes avaliam os projetos, oferecendo feedback valioso e reconhecendo o trabalho das equipes.
                 </p>
               </div>
             </FadeInSection>
