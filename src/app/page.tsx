@@ -1235,7 +1235,7 @@ export default function ExpoTech2026() {
                 </div>
                 <div className="flex flex-col items-start md:items-end gap-2">
                   <div className="text-3xl font-black text-white">
-                    11 MAR
+                    20 MAR
                   </div>
                   <div className="text-gray-400">2026</div>
                 </div>
