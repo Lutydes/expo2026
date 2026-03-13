@@ -459,7 +459,7 @@ export default function ExpoTech2026() {
                   <div className="flex items-start gap-3">
                     <span className="text-[#00f3ff] mt-1">●</span>
                     <p className="text-gray-300">
-                      <strong className="text-white">Modelagem de Banco de Dados:</strong> MER, DER e operações CRUD
+                      <strong className="text-white">Modelagem de Banco de Dados:</strong> DER e operações CRUD
                     </p>
                   </div>
                   <div className="flex items-start gap-3">
