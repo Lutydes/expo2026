@@ -633,10 +633,11 @@ export default function ExpoTech2026() {
                   <div className="bg-[#0a0f1d]/50 p-6 rounded-xl border border-[#00f3ff]/20 hover:border-[#00f3ff]/50 transition-colors">
                     <h4 className="text-xl font-bold text-[#00f3ff] mb-3">GTI</h4>
                     <p className="text-gray-400 text-sm mb-4">
-                      IA unindo Machine Learning, NLP e Prompt Engineering. Sistemas inteligentes com Deep Learning.
+                      Manhã: Frameworks de Governança de TI com Dashboards.
+                      Noite: Soluções com Data Science
                     </p>
                     <a
-                      href="https://drive.google.com/file/d/1L7rlD_v5kBZTQIeEdoJb0VPxy6xZAzPl/view?usp=sharing"
+                      href="https://drive.google.com/drive/folders/1WAtUMrAKOlB17s_z23QpnthicUEUWrmM?usp=sharing"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-[#00f3ff] hover:text-[#00d4e8] font-semibold flex items-center gap-2 text-sm"
@@ -710,10 +711,10 @@ export default function ExpoTech2026() {
                   <div className="bg-[#0a0f1d]/50 p-6 rounded-xl border border-[#00f3ff]/20 hover:border-[#00f3ff]/50 transition-colors">
                     <h4 className="text-xl font-bold text-[#00f3ff] mb-3">GTI</h4>
                     <p className="text-gray-400 text-sm mb-4">
-                      Sistema inteligente de IA aplicando Deep Learning e Processamento de Linguagem Natural.
+                      Frameworks de Governança de TI e Soluções de BI/Transformação Digital com Dashboards.
                     </p>
                     <a
-                      href="https://drive.google.com/file/d/16Wo_rL2tS-ffpGBFvqrCL3amVFSjt6KY/view?usp=sharing"
+                      href="https://drive.google.com/file/d/1hg83VpxwPl0hglM8y4F9hAmeQ2qjV4LP/view?usp=sharing"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-[#00f3ff] hover:text-[#00d4e8] font-semibold flex items-center gap-2 text-sm"
