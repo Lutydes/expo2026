@@ -633,7 +633,8 @@ export default function ExpoTech2026() {
                   <div className="bg-[#0a0f1d]/50 p-6 rounded-xl border border-[#00f3ff]/20 hover:border-[#00f3ff]/50 transition-colors">
                     <h4 className="text-xl font-bold text-[#00f3ff] mb-3">GTI</h4>
                     <p className="text-gray-400 text-sm mb-4">
-                      Manhã: Frameworks de Governança de TI com Dashboards.
+                      Manhã: Frameworks de Governança de TI com Dashboards.~
+                      <br />
                       Noite: Soluções com Data Science.
                     </p>
                     <a
