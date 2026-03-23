@@ -272,7 +272,7 @@ export default function ExpoTech2026() {
               target="_blank"
               rel="noopener noreferrer"
               className="w-full sm:w-auto bg-gradient-to-r from-[#00f3ff] to-[#00d4e8] text-black font-bold px-8 py-4 rounded-lg text-lg hover:shadow-[0_0_30px_rgba(0,243,255,0.6)] hover:scale-105 transition-all duration-300"
-              aria-label="Inscrever seu projeto no ExpoTech 2026 - abre em nova aba"
+              aria-label="Confira sua Inscrição - abre em nova aba"
             >
               🚀 Confira sua Inscrição
             </a>
