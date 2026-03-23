@@ -231,12 +231,12 @@ export default function ExpoTech2026() {
                 )}
               </button>
               <a
-                href="https://forms.gle/mh3GX4FpsHroyDHE8"
+                href="https://expocadastro.netlify.app/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-gradient-to-r from-[#00f3ff] to-[#00d4e8] text-black font-bold px-6 py-2 rounded-lg hover:shadow-[0_0_30px_rgba(0,243,255,0.6)] hover:scale-105 active:scale-95 transition-all duration-300"
               >
-                Inscrever-se
+                Confira sua Inscrição
               </a>
             </div>
           </div>
