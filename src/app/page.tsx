@@ -268,13 +268,13 @@ export default function ExpoTech2026() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <a
-              href="https://forms.gle/mh3GX4FpsHroyDHE8"
+              href="https://expocadastro.netlify.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full sm:w-auto bg-gradient-to-r from-[#00f3ff] to-[#00d4e8] text-black font-bold px-8 py-4 rounded-lg text-lg hover:shadow-[0_0_30px_rgba(0,243,255,0.6)] hover:scale-105 transition-all duration-300"
               aria-label="Inscrever seu projeto no ExpoTech 2026 - abre em nova aba"
             >
-              🚀 Inscrever Seu Projeto
+              🚀 Confira sua Inscrição
             </a>
             <button
               onClick={() => scrollToSection('trilhas')}
