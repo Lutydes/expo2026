@@ -259,7 +259,7 @@ export default function ExpoTech2026() {
           </h1>
           <div className="mb-6 inline-block">
             <span className="px-4 py-2 bg-[#00f3ff]/10 border border-[#00f3ff]/30 rounded-full text-[#00f3ff] text-sm font-medium">
-              13 de Junho de 2026 • UniFECAF
+              13 de Junho de 2026 •  UniFECAF
             </span>
           </div>
           <p className={`text-xl md:text-2xl ${textSecondary} mb-8 max-w-3xl mx-auto`}>
