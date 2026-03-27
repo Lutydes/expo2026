@@ -231,7 +231,7 @@ export default function ExpoTech2026() {
                 )}
               </button>
               <a
-                href="https://expocadastro.netlify.app/"
+                href="https://expocadastros.netlify.app/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-gradient-to-r from-[#00f3ff] to-[#00d4e8] text-black font-bold px-6 py-2 rounded-lg hover:shadow-[0_0_30px_rgba(0,243,255,0.6)] hover:scale-105 active:scale-95 transition-all duration-300"
@@ -268,7 +268,7 @@ export default function ExpoTech2026() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <a
-              href="https://expocadastro.netlify.app/"
+              href="https://expocadastros.netlify.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full sm:w-auto bg-gradient-to-r from-[#00f3ff] to-[#00d4e8] text-black font-bold px-8 py-4 rounded-lg text-lg hover:shadow-[0_0_30px_rgba(0,243,255,0.6)] hover:scale-105 transition-all duration-300"
@@ -1242,7 +1242,7 @@ export default function ExpoTech2026() {
               </div>
               <div className="mt-6">
                 <a
-                  href="https://expocadastro.netlify.app/"
+                  href="https://expocadastros.netlify.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 bg-gradient-to-r from-[#00f3ff] to-[#00d4e8] text-black font-bold px-6 py-3 rounded-lg hover:shadow-[0_0_25px_rgba(0,243,255,0.6)] transition-all duration-300"
@@ -1270,7 +1270,7 @@ export default function ExpoTech2026() {
               </div>
               <div className="mt-6">
                 <a
-                  href="https://expocadastro.netlify.app/"
+                  href="https://expocadastros.netlify.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 bg-gradient-to-r from-[#ec4899] to-[#db2777] text-white font-bold px-6 py-3 rounded-lg hover:shadow-[0_0_25px_rgba(236,72,153,0.6)] transition-all duration-300"
